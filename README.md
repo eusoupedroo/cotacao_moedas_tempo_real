@@ -2,7 +2,6 @@
 ![WhatsApp Image 2023-01-20 at 16 23 51](https://user-images.githubusercontent.com/43014726/213787901-42b2ac7d-5ba0-4d59-8a91-6bf882d16e8a.jpeg)
 ![WhatsApp Image 2023-01-20 at 15 06 37](https://user-images.githubusercontent.com/43014726/213787903-84c0052a-e3ae-4834-a3a7-5519af3dec59.jpeg)
 ![WhatsApp Image 2023-01-20 at 16 20 49](https://user-images.githubusercontent.com/43014726/213787905-944d5c6b-37cc-4679-8b05-a1a21b1196fc.jpeg)
-![WhatsApp Image 2023-01-20 at 16 20 50](https://user-images.githubusercontent.com/43014726/213787907-ba20fe63-26c1-4873-9fe3-b1b157223e96.jpeg)
 
 # AUTOMATION WEB TO GET THE VARIATION OF COINS AROUND THE WORLD
 
