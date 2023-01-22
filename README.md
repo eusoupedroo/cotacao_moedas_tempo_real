@@ -45,6 +45,3 @@ https://chromedriver.chromium.org/downloads
 ~~~
 
 If you use the Firefox, don't worry, you can make the same step searching on google for 'geckodriver'. 
-
-### Verify Project On Your Computer:
-You can clone this project and run in your computer.
